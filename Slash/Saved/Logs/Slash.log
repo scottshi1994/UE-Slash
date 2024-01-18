@@ -1121,3 +1121,4 @@ LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variab
 
 [2024.01.18-03.15.37:953][  1]Running Python start-up script 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py': 0.039539 secs
 [2024.01.18-03.15.37:986][  1]LogD3D12RHI: Cannot end block when stack is empty
+[2024.01.18-03.17.26:907][118]LogDerivedDataCache: C:/Users/shilei/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.137 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 524 files in 970 folders with total size 21 MiB.
