@@ -1,21 +1,5 @@
-[0117/152757.697:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
-[0117/152807.861:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
-[0117/152819.485:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 1
-[0117/152819.669:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 3
-[0117/152820.457:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 3
-[0117/152820.457:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 5
-[0117/152820.457:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 7
-[0117/152830.046:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -101
-[0117/152840.770:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
-[0117/152850.587:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
-[0117/152900.703:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
-[0117/152920.378:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
-[0117/152925.151:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
-[0117/152931.034:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
-[0117/153126.142:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
-[0117/153126.471:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
-[0117/153405.447:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 9
-[0117/153406.437:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 7
-[0117/153406.437:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 11
-[0117/153406.437:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 5
-[0117/153748.204:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0124/223004.536:ERROR:os_crypt_win.cc(93)] Failed to decrypt: 该项不适于在指定状态下使用。 (0x8009000B)
+[0124/223016.261:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0124/223023.715:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 1
+[0124/223023.715:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 3
+[0124/223205.115:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
