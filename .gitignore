@@ -1,0 +1,5 @@
+
+*.log
+*Slash/DerivedDataCache
+*Slash/Intermediate
+*Slash/Saved
