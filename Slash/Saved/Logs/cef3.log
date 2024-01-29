@@ -1,5 +1,0 @@
-[0124/223004.536:ERROR:os_crypt_win.cc(93)] Failed to decrypt: 该项不适于在指定状态下使用。 (0x8009000B)
-[0124/223016.261:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[0124/223023.715:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 1
-[0124/223023.715:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 3
-[0124/223205.115:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
